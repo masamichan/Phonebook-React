@@ -1,4 +1,5 @@
 ・電話帳のアプリをReactで実装
 
-・nodemonを使用
+・nodemonを使って実装
+
 
