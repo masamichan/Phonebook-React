@@ -1,5 +1,5 @@
-・電話帳のアプリをReactで実装
+・電話帳のアプリを React で実装
 
-・nodemonを使って実装
+・nodemon を使って実装
 
-
+・MongoDB との接続
