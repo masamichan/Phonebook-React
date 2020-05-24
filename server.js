@@ -6,6 +6,9 @@ const app = express();
 // Connected Database
 connectDB();
 
+//Init Middleware
+app.use(express.json({ extended: false }));
+
 app.get("/", (req, res) => res.json({ msg: "Welcom to Phonebook" }));
 
 app.use("/api/users", require("./routes/users"));
