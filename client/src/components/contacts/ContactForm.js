@@ -92,7 +92,7 @@ const ContactForm = () => {
         <input
           type="submit"
           value={current ? "Update Contact" : "Add Contact"}
-          class="btn btn-primary btn-block"
+          className="btn btn-primary btn-block"
         />
       </div>
       {current && (
