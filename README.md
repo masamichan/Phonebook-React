@@ -6,10 +6,12 @@
 
 ・nodemon を使って実装
 
-・Postman を使用して確認、実装
+・Postman を使用して API・Token を確認、実装
 
-・MongoDB との接続
+・データベースは MongoDB を使用
 
 ・jsonwebtoken を使ったログインとログイン認証
 
 ・電話帳の検索機能
+
+・ユーザー登録機能、ログイン機能、ログアウト機能を React で実装
