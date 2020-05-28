@@ -1,5 +1,5 @@
 {
-  "name": "Phonebook",
+  "name": "phonebook",
   "version": "1.0.0",
   "description": "Phonebook app",
   "main": "server.js",
