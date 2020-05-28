@@ -76,7 +76,6 @@ const ContactState = (props) => {
         config
       );
       dispatch({ type: UPDATE_CONTACT, payload: res.data });
-      console.log(res);
     } catch (err) {
       dispatch({ type: CONTACT_ERROR, payload: err.response.msg });
     }
