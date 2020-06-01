@@ -16,4 +16,6 @@
 
 ・ユーザー登録機能、ログイン機能、ログアウト機能を React で実装
 
+・デプロイは heroku を使用
+
 https://phonebook-sales.herokuapp.com/
